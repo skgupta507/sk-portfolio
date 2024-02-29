@@ -13,11 +13,11 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <ExternalLink href="https://www.linkedin.com/in/govind-ganeriwal-49869a213/"> <img src={Linkedin} alt="" /> </ExternalLink>
-              <ExternalLink href="https://twitter.com/Govind755">   <img src={twitter} /> </ExternalLink>
-              <ExternalLink href="https://github.com/Govind783">  <img src={github} /> </ExternalLink>
+              <ExternalLink href="https://www.linkedin.com/in/sunil-gupta-798914144/"> <img src={Linkedin} alt="" /> </ExternalLink>
+              <ExternalLink href="https://twitter.com/skgupta507">   <img src={twitter} /> </ExternalLink>
+              <ExternalLink href="https://github.com/sunilgupta507">  <img src={github} /> </ExternalLink>
             </div>
-            <p className=" capitalize">Copyright 2022. All Rights Reserved Built By govind ganeriwal</p>
+            <p className=" capitalize">Copyright 2024. All Rights Reserved Built By Sunil Gupta</p>
           </Col>
         </Row>
       </Container>
