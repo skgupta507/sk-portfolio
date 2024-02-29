@@ -60,9 +60,9 @@ export const NavBar = () => {
             <span className="navbar-text">
 
               <div className="social-icon">
-                <ExternalLink href="https://www.linkedin.com/in/govind-ganeriwal-49869a213/"> <img src={Linkedin} alt="" /> </ExternalLink>
-                <ExternalLink href="https://twitter.com/Govind755">   <img src={twitter} /> </ExternalLink>
-                <ExternalLink href="https://github.com/Govind783">  <img src={github} /> </ExternalLink>
+                <ExternalLink href="https://www.linkedin.com/in/sunil-gupta-798914144/"> <img src={Linkedin} alt="" /> </ExternalLink>
+                <ExternalLink href="https://twitter.com/skgupta507">   <img src={twitter} /> </ExternalLink>
+                <ExternalLink href="https://github.com/skgupta507">  <img src={github} /> </ExternalLink>
               </div>
 
               <HashLink to='#connect'>
