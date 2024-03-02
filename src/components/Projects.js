@@ -143,7 +143,7 @@ export const Projects = () => {
                                   user is then taken to the place detail page which shows more information about the place, such
                                   as reviews, who has hosted the destination and a calendar to choose the preferred dates, and once
                                   the dates are chosen the user is then taken to the checkout page which has PayPal, google-pay, visa,
-                                  MasterCard and Amex integrated and the user can finally make the payment.<ExternalLink href="https://github.com/Govind783" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
+                                  MasterCard and Amex integrated and the user can finally make the payment.<ExternalLink href="https://github.com/skgupta507" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
 
                                 </p>
                               </div>
@@ -167,7 +167,7 @@ export const Projects = () => {
                               content="live project" />
 
                             <div className="flex gap-6 relative bubbleContentHold">
-                              <ExternalLink href="https://github.com/Govind783/airbnb-clone">
+                              <ExternalLink href="https://github.com/skgupta507/airbnb-clone">
                                 <BsGithub className=" inline-block white text-3xl" id="github" />
                               </ExternalLink>
 
@@ -213,7 +213,7 @@ export const Projects = () => {
                                   information about a product such as other images, an FAQ section, similar products, and the review section to search for and filter out reviews.
                                   the cart page has google-pay, PayPal, visa, Amex and MasterCard integrated for the user to checkout.
                                   the under 20 and under 40 page have option to filter out products based on the category of the product
-                                  i.e body-lotion, body-wash, and body-scrub. <ExternalLink href="https://github.com/Govind783" className="text-yellow-400 hover:text-yellow-500 uppercase"> See more on my github </ExternalLink>"
+                                  i.e body-lotion, body-wash, and body-scrub. <ExternalLink href="https://github.com/skgupta507" className="text-yellow-400 hover:text-yellow-500 uppercase"> See more on my github </ExternalLink>"
 
                                 </p>
                               </div>
@@ -237,7 +237,7 @@ export const Projects = () => {
                               content="live project" />
 
                             <div className="flex gap-6 relative bubbleContentHold">
-                              <ExternalLink href="https://github.com/Govind783/react-e-commerce-">
+                              <ExternalLink href="https://github.com/skgupta507/react-e-commerce-">
                                 <BsGithub className=" inline-block white text-3xl" id="github2" />
                               </ExternalLink>
 
@@ -287,7 +287,7 @@ export const Projects = () => {
                                   based upon the genre. by clicking the "add to watch later" button a side-bar opens up
                                   displaying all the movies that you've added to the watch later list and upon clicking on the
                                   "watch on youtube" button you are then redirected to the youtube trailer link of that
-                                  particular movie. the project uses TMDB as the backend api endpoint  <ExternalLink href="https://github.com/Govind783" className="text-yellow-400 hover:text-yellow-500 uppercase"> See more on my github </ExternalLink>"
+                                  particular movie. the project uses TMDB as the backend api endpoint  <ExternalLink href="https://github.com/skgupta507" className="text-yellow-400 hover:text-yellow-500 uppercase"> See more on my github </ExternalLink>"
 
                                 </p>
                               </div>
@@ -312,7 +312,7 @@ export const Projects = () => {
 
                             <div className="flex gap-6 relative bubbleContentHold">
 
-                              <ExternalLink href="https://github.com/Govind783/netflix-clone">
+                              <ExternalLink href="https://github.com/skgupta507/netflix-clone">
                                 <BsGithub className=" inline-block white text-3xl" id="github3" />
                               </ExternalLink>
 
